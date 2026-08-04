@@ -14,3 +14,6 @@ Also there is russian text
 Maybe we see each other last time, or maybe first.
 but if you wanna help me with advice or just wanna talk, you can find me by my discord user 
 @de3_n01
+
+
+<img src="./blehh.jpg" width="200" align="center">
